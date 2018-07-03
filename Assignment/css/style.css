@@ -1,0 +1,43 @@
+ body
+{ 
+width:1000px;
+margin: 3px 59px 20px 159px;
+background-color:#ADFF2F;
+padding :0 20px 20px 20px;
+border:5px solid #DBB577;
+}
+
+
+h1 {
+  margin: 0 auto;
+  font-size: 70px;
+  color: #800000;
+  text-align:center;
+  text-shadow: 3px 3px 1px black;
+}
+p {
+  color:#0000FF; 
+  font-size: 20px;
+  letter-spacing: 1px;
+  font-family:Sans-serif;
+  
+}
+li {
+  color:#FF4500; 
+  font-size: 20px;
+  letter-spacing: 1px;
+  font-family:Sans-serif;
+  
+}
+h3 {
+  color:#FF00FF; 
+  font-size: 20px;
+  letter-spacing: 1px;
+  font-family:Sans-serif;
+  
+}
+ 
+	img {
+  display: block;
+  margin: 0 auto;
+}	
